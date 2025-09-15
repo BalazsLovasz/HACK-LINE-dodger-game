@@ -1,4 +1,4 @@
-# HACK-LINE Dodger Game 🎮
+### HACK-LINE Dodger Game 🎮
 
 A fast-paced **Pygame** project where you control a robot dodging obstacles in a neon cyber world.  
 Collect coins, dash through enemies, and survive as long as you can!
@@ -22,25 +22,18 @@ Collect coins, dash through enemies, and survive as long as you can!
    cd HACK-LINE-dodger-game
 Install the required Python package:
 
-bash
-Copy code
 pip install pygame
 Start the game:
 
-bash
-Copy code
 python Main.py
-🎮 Controls
-Arrow Keys → Move robot
+## 🎮 Controls:
 
-Spacebar → Dash
+ASDF → Move robot
 
-Esc → Pause / Quit
+AD → Dash (left/right)
 
-📂 Project Structure
+## 📂 Project Structure
 Main.py → Game entry point
-
-Menus.py → Start/game over menus
 
 Robot.py → Player logic
 
@@ -54,8 +47,6 @@ sounds/ & music/ → Game audio
 
 background/ → Game backgrounds
 
-build/ & dist/ → Compiled builds (optional)
-
-👤 Author
+## 👤 Author
 
 Made with ❤️ by Balazs Lovasz
